@@ -20,4 +20,4 @@ Date of Birth:2055:05:04 BS
     # Basic course in Photoshop
     # knowledge of C,C++
      
- [Link](url) and ![Image](src)
+ [Link](romanreign1159@gmail.com) and ![Image](https://github.com/settings/profile)
